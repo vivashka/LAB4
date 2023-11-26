@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p0fZreX5v7d57C2FyLsbfcF6TxHReXyPdBCbOBKed9ogyzTE3U4gr7+n9e7mCZBmJ/Hz7NnIoZG5SyiGkpohnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vovac\\OneDrive\\Рабочий стол\\Lab4\\Lab4\\Lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vovac\\.nuget\\packages\\lablibrary\\1.0.7\\lablibrary.1.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

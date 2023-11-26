@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lab4/1.0.0": {
+        "dependencies": {
+          "LabLibrary": "1.0.7"
+        },
+        "runtime": {
+          "Lab4.dll": {}
+        }
+      },
+      "LabLibrary/1.0.7": {
+        "runtime": {
+          "lib/net7.0/LabLibrary.dll": {
+            "assemblyVersion": "1.0.7.0",
+            "fileVersion": "1.0.7.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LabLibrary/1.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VxIl50XemLkxnd7HnKf9bNtmeq0l6ug+FvKKt4azrmWPwVYWO1ZyLaE34ossMoNSlDshXPG55ucSxefsiZJ6lA==",
+      "path": "lablibrary/1.0.7",
+      "hashPath": "lablibrary.1.0.7.nupkg.sha512"
+    }
+  }
+}
